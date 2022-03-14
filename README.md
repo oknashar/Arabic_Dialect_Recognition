@@ -9,3 +9,4 @@
 ![Lstm](https://github.com/oknashar/Arabic_Dialect_Recognition/blob/main/Images/LSTM.png)
 ## 4- Run the DL Notebook to train your model upon your data and save the model to use it in backend part
 ## 5- Then you can read the backend readme file to start using the web site 
+<img src="https://...thumbs-up.gif">
